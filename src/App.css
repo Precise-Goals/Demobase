@@ -473,3 +473,8 @@ footer#footer h1 {
     flex-direction: column;
   }
 }
+.App h1 {
+  background: url("https://media.istockphoto.com/id/162542504/photo/earth-sunrise-in-space.jpg?s=612x612&w=0&k=20&c=yOz6xe894yVDOtt29uFDybMbNyKdpW_4vOUUEkAlaEI=");
+  background-clip: text;
+  color: transparent;
+}
